@@ -1,6 +1,5 @@
 # Aaron Yemisrach  
 Email: [ayemisrach@students.kennesaw.edu]
-GitHub: [github.com/aaronyem] 
 LinkedIn: [www.linkedin.com/in/aaron-yemisrach-032484326
 ---
 
@@ -33,6 +32,4 @@ Bachelor’s in Computer Science, AI Concentration (Expected May 2027)
 
 ---
 
-## Additional Links  
-- **Git:** [https://github.com/AaronYem]
 
