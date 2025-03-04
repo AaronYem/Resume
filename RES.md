@@ -1,6 +1,9 @@
 # Aaron Yemisrach  
+
 Email: [ayemisrach@students.kennesaw.edu]
+
 LinkedIn: [www.linkedin.com/in/aaron-yemisrach-032484326
+
 ---
 
 ## Technical Skills  
